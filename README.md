@@ -1,5 +1,3 @@
-# Leave_Management_System
-
 # Leave Management System
 
 ## Overview
@@ -54,3 +52,13 @@ The project uses the following database tables:
 3. Perform the desired operations (e.g., submit leave requests, approve requests, etc.).
 
 ![alt text](image.png)
+![alt text](image-1.png)
+
+# Alternate : Runing application
+
+Running the Application:
+“Run EmployeeApplication.exe to use the employee interface (login with EmployeeID and Password).”
+“Run AdminApplication.exe to use the admin interface (login with EmployeeID: ADM001, Password: admin123).”
+
+Sample Data:
+“The database includes an admin user: EmployeeID: ADM001, Password: admin123, IsAdmin: 1.”
